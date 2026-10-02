@@ -88,6 +88,11 @@ export default function RootLayout({
     >
       <head>
         <meta name="hostname" content="tools.melvinjonesrepol.com" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5077097159223655"
+          crossOrigin="anonymous"
+        ></script>
       </head>
       <body className="antialiased min-h-full flex flex-col">{children}</body>
     </html>

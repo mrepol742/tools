@@ -1,0 +1,96 @@
+# Tools by Melvin Jones Repol
+
+> A collection of free, simple, and privacy-minded online tools for SEO, web development, networking, security, and everyday web tasks.
+
+Website: https://tools.melvinjonesrepol.com/
+
+Tools by Melvin Jones Repol provides focused web utilities designed to give useful results quickly without unnecessary accounts, dashboards, or complexity.
+
+## Available Tools
+
+### SEO & Web
+
+- Open Graph Preview
+  Preview Open Graph and social sharing cards before publishing a page.
+
+- Meta Tag Checker
+  Inspect and review webpage titles, descriptions, meta tags, and related metadata.
+
+- Redirect Checker
+  Follow a URL's HTTP redirect path and inspect redirect chains.
+
+### Network & Security
+
+- IP Address Lookup
+  Look up information associated with an IP address.
+
+- DNS Lookup
+  Inspect common DNS records for a domain.
+
+- Security Headers
+  Review important HTTP security headers returned by a website.
+
+### Developer Tools
+
+- QR Code Generator
+  Generate QR codes from text or URLs.
+
+- JSON Formatter
+  Format, validate, and clean up JSON data.
+
+- Base64 Encoder
+  Encode text to Base64 or decode Base64 data.
+
+- HTML Editor
+  Edit HTML and preview the resulting page while you work.
+
+## Purpose
+
+The site is intended for developers, website owners, SEO professionals, system administrators, and other users who need quick web utilities.
+
+Each tool focuses on a specific task and is designed to provide clear output without requiring a user account or complicated workflow.
+
+## Topics
+
+The site contains information and utilities related to:
+
+- Search engine optimization
+- Website metadata
+- Open Graph metadata
+- Social sharing previews
+- HTTP redirects
+- DNS records
+- IP addresses
+- HTTP security headers
+- QR codes
+- JSON
+- Base64 encoding and decoding
+- HTML editing and previewing
+- Website troubleshooting
+- Web development
+
+## Usage
+
+Tools may be used to inspect, validate, generate, format, or troubleshoot web-related information.
+
+Results from diagnostic tools should be treated as informational. Users should independently verify results when making security, infrastructure, or other important technical decisions.
+
+## Third-Party Resources
+
+The site may reference external tools and services where they provide useful additional functionality, including:
+
+- SecurityHeaders.com
+- Website Carbon
+- Schema.org Markup Validator
+
+These external services are independent from Tools by Melvin Jones Repol.
+
+## About
+
+Tools by Melvin Jones Repol is maintained by Melvin Jones Repol.
+
+Main tools website:
+https://tools.melvinjonesrepol.com/
+
+Author website:
+https://www.melvinjonesrepol.com/
